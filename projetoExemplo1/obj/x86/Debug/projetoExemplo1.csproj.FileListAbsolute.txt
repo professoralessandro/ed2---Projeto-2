@@ -1,0 +1,28 @@
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\bin\Debug\projetoExemplo1.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\bin\Debug\projetoExemplo1.pdb
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Form1.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Properties.Resources.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csproj.GenerateResource.Cache
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2018s2\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.pdb
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.exe
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.pdb
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\bin\Debug\projetoExemplo1.exe
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\bin\Debug\projetoExemplo1.pdb
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Form1.resources
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Properties.Resources.resources
+C:\Users\aluno\Desktop\02082018\projetoExemplo1\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csproj.GenerateResource.Cache
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csprojAssemblyReference.cache
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Form1.resources
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Properties.Resources.resources
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csproj.GenerateResource.cache
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csproj.CoreCompileInputs.cache
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.exe
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.pdb
+C:\Users\aluno\Desktop\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.exe
+C:\Users\aluno\Desktop\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.pdb
+C:\Users\aluno\Desktop\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Form1.resources
+C:\Users\aluno\Desktop\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.Properties.Resources.resources
+C:\Users\aluno\Desktop\02082018\projetoExemplo2\projetoExemplo1\obj\x86\Debug\projetoExemplo1.csproj.GenerateResource.Cache
